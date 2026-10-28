@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/xarray-contrib/xarray-dataclass/commit/a4890916239acce02e41985750960d7285ac745c",
       "git:hexsha": "a4890916239acce02e41985750960d7285ac745c",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v3.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.0.0",
+      "repolex:parsedAt": "2026-10-28T13:37:11.873898+00:00"
     },
     {
       "@id": "https://repolex.ai/r/xarray-contrib/xarray-dataclass/commit/ba1bc4b521aff90fbc217004e7a48083dc26916b",
